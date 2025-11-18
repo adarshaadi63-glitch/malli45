@@ -1,1 +1,2 @@
-# malli45
+a=30
+print(a)
